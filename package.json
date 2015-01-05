@@ -27,7 +27,7 @@
   "author": "Alberto Miorin <github@ululi.it>",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "regenerator": "0.3.0",
+    "regenerator": "0.8.3",
     "through": "~2.3.4"
   }
 }
